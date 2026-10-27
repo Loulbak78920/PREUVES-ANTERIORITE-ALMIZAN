@@ -1,0 +1,204 @@
+{
+  "captured_at_utc": "2026-10-27T13:04:19.779442+00:00",
+  "algorithme": "SHA-256",
+  "portee": "tous les fichiers du depot sauf ce manifeste",
+  "nb_fichiers": 39,
+  "empreinte_liste": "ab6d393c475f7e463e06b75818b7b3e927056d246e1e49d5b1f7648e9aa30452",
+  "fichiers": [
+    {
+      "chemin": ".gitattributes",
+      "octets": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "chemin": "01_IDENTITE_ET_ATTRIBUTION/ACTE_A01_ANTERIORITE_CAVIARDE.md",
+      "octets": 6212,
+      "sha256": "09da92dc9865dcc82228edb30fddc233c8a4f16a3b91ffbaf561a7e131f73586"
+    },
+    {
+      "chemin": "01_IDENTITE_ET_ATTRIBUTION/IDENTITE_AUTEUR_CAVIARDEE.json",
+      "octets": 3441,
+      "sha256": "9eebd237bba8d2f6051da6204938bbacf4315fa616d3abce09f6dc64f00340df"
+    },
+    {
+      "chemin": "01_IDENTITE_ET_ATTRIBUTION/IDENTITE_AUTEUR_CAVIARDEE.md",
+      "octets": 3384,
+      "sha256": "0bc75ddcca29614d50d38125dcdda7c78fd5196bc00989983c2ae5b1bdf689fc"
+    },
+    {
+      "chemin": "01_IDENTITE_ET_ATTRIBUTION/RECU_COFFRE_DIGIPOSTE_A076_CAVIARDE.json",
+      "octets": 2947,
+      "sha256": "b896c4e5e4a25bc7bf5afd25687f6e4773c573e1ad42cdc5fe07938a71254b9d"
+    },
+    {
+      "chemin": "02_LICENCES/COFFRE_CONTRAT_50_50_CAVIARDE.md",
+      "octets": 3034,
+      "sha256": "9a4c00e17ba7d3e3acc843a5acb6f38dd6ecbda6314dd6ed606ec564e1f6c49d"
+    },
+    {
+      "chemin": "02_LICENCES/CONTRAT_COMMERCIAL_50_50_CAVIARDE.md",
+      "octets": 1938,
+      "sha256": "d335341911ea356547fda6f4364f3eca261a070f63275e839d5b6f3e646e9cb4"
+    },
+    {
+      "chemin": "02_LICENCES/LICENCE_COMPLETE_ET_ATTRIBUTION_CAVIARDEE.md",
+      "octets": 4936,
+      "sha256": "18652914aa605d949384db7f0eb7f7accb9f67107e1e89f7cc511faac0a03a45"
+    },
+    {
+      "chemin": "02_LICENCES/LICENSE_DEPOT.md",
+      "octets": 694,
+      "sha256": "82c8a2e18ec9d627632fc75f1e3f2afca9b05495a224ec890cfefd96a0d7c297"
+    },
+    {
+      "chemin": "02_LICENCES/NOTICE.txt",
+      "octets": 2948,
+      "sha256": "d6ddaf4e84adb2bcabb61da5a8ab172f723fc0927803024e21fe6d520ef55fd4"
+    },
+    {
+      "chemin": "03_OEUVRE/CITATIONS_ACADEMIQUES/STYLES_DE_CITATION_CAVIARDE.md",
+      "octets": 3126,
+      "sha256": "1787ac29b8b561349d8b597ac6216dc2f0ad83a54f9dd462a7dff881684d663f"
+    },
+    {
+      "chemin": "03_OEUVRE/CITATIONS_ACADEMIQUES/references.bib",
+      "octets": 1456,
+      "sha256": "1efc5976b7923bf5c7c109971ee52d4ccf79407a3aca1b86b3bf963981302056"
+    },
+    {
+      "chemin": "03_OEUVRE/CITATIONS_ACADEMIQUES/references.ris",
+      "octets": 1230,
+      "sha256": "4973303eb490844ee3fceeb405675c801dec401b3c60fe2f6c515d182af03dd4"
+    },
+    {
+      "chemin": "03_OEUVRE/LIVRE_BLANC_OFFICIEL_CAVIARDE.md",
+      "octets": 17914,
+      "sha256": "ded57db764a52e26a25920ac40108afbf54187a8493c420d9d925fda92590df0"
+    },
+    {
+      "chemin": "03_OEUVRE/METADONNEES/.zenodo.json",
+      "octets": 7572,
+      "sha256": "c966bdad19eba892aef4449f925a3df2657dc8dc473a5e02c76ffabb9d3d8438"
+    },
+    {
+      "chemin": "03_OEUVRE/METADONNEES/CITATION.cff",
+      "octets": 2959,
+      "sha256": "086d1e729411fe0d37d0d6783315fbe5e466cbbc4693cf993438c2135cd75a3d"
+    },
+    {
+      "chemin": "03_OEUVRE/METADONNEES/codemeta.json",
+      "octets": 2329,
+      "sha256": "f61d7021456442bf3238843bce961188f747cc493d755d69dc5f071e9f8b10e5"
+    },
+    {
+      "chemin": "03_OEUVRE/METADONNEES/datacite.json",
+      "octets": 2275,
+      "sha256": "b7ea248d125df2de6daf86e8dcb0a729113c972098312667f8af5e00693f3669"
+    },
+    {
+      "chemin": "03_OEUVRE/SMART_CONTRACT/ACTE_A098_VERIFICATION_BASESCAN.json",
+      "octets": 2252,
+      "sha256": "a6050825ca6a57e507182206677c60237b9a065cc7018818198af5a04bd3c629"
+    },
+    {
+      "chemin": "03_OEUVRE/SMART_CONTRACT/ACTE_A099_NAMETAG_BASESCAN.json",
+      "octets": 891,
+      "sha256": "796b67dbd728a1cacbf25b91119ef242aefcae9887395ebd45e5c63c716cb47c"
+    },
+    {
+      "chemin": "03_OEUVRE/SMART_CONTRACT/ARTEFACT_BYTECODE_ET_ABI.json",
+      "octets": 50918,
+      "sha256": "ebcd93f608067b22b4fbc7d7cf999b6aa5dea4eac61e648ab3eff487b9894fa6"
+    },
+    {
+      "chemin": "03_OEUVRE/SMART_CONTRACT/CERTIFICAT_CITATION.json",
+      "octets": 1185,
+      "sha256": "7ed51718eca424ad83703424974a6c7f24f118d19a1410c35fd7c3860092385f"
+    },
+    {
+      "chemin": "03_OEUVRE/SMART_CONTRACT/CERTIFICAT_CITATION.md",
+      "octets": 1206,
+      "sha256": "78f2ad539551bfb08fce3d527d12c4ef46400ee2e4895f241b240e94e350d5ac"
+    },
+    {
+      "chemin": "03_OEUVRE/SYNTHESE_SCIENTIFIQUE_CAVIARDEE.md",
+      "octets": 7285,
+      "sha256": "6288ed3c2927b21cd376a04d4054aff1f1c1f6814b720020fa316d76d77933d5"
+    },
+    {
+      "chemin": "04_PREUVES_EXTERNES/ACCES_PUBLIC_DEPOTS.json",
+      "octets": 1857,
+      "sha256": "6686d1bb437842db9c17ed676650058a646dfef49b4c595f9b8f015754e4bf07"
+    },
+    {
+      "chemin": "04_PREUVES_EXTERNES/BASE_MAINNET_TRANSACTION.json",
+      "octets": 46141,
+      "sha256": "b11cd6a1126a2975929ac682dfde341f294428816cd8bf0d07da737eb9b87d26"
+    },
+    {
+      "chemin": "04_PREUVES_EXTERNES/HISTORIQUE_GIT_DEPOT_PRIVE.json",
+      "octets": 751,
+      "sha256": "60827f619f76dbaf9d7a4c6eeb971ca5dcff1118578509a33558fa6c267fea25"
+    },
+    {
+      "chemin": "04_PREUVES_EXTERNES/HISTORIQUE_GIT_DEPOT_PUBLIC.json",
+      "octets": 37426,
+      "sha256": "34cbc96ff35d05cf7482bf0d1b2841ec6aed79bfa982e5a62d4d1d7654676860"
+    },
+    {
+      "chemin": "04_PREUVES_EXTERNES/HISTORIQUE_GIT_DEPOT_PUBLIC.txt",
+      "octets": 21353,
+      "sha256": "0f507067997b15d8c8df82ee0ba70c2c4ae8909c0b13c83ea9c2c825ee26e9a8"
+    },
+    {
+      "chemin": "04_PREUVES_EXTERNES/RAPPORT_VERIFICATION_DOIS.json",
+      "octets": 1182,
+      "sha256": "4fa7e997538fa8d2a5528c8f8b9ab3b8f0a2ba3bca6b4b41eb5735c6c8b35e94"
+    },
+    {
+      "chemin": "04_PREUVES_EXTERNES/README.md",
+      "octets": 685,
+      "sha256": "c179ed9518ea333657ccf5430be215994c5d6d3fd49f4e501723af7082e1ca44"
+    },
+    {
+      "chemin": "04_PREUVES_EXTERNES/RECU_DEPLOIEMENT_BASE_MAINNET.json",
+      "octets": 390,
+      "sha256": "593481baf509116d3de261f25b715f24111dac859d08aa0d28cbf35f43c36214"
+    },
+    {
+      "chemin": "05_EMPREINTES/EMPREINTES_ARTEFACTS_NON_PUBLIES.json",
+      "octets": 2754,
+      "sha256": "b8b3c8f92aea7eaa3aacfeb80172830bf3d1b10ca6f32833677c70b830a565cb"
+    },
+    {
+      "chemin": "05_EMPREINTES/verifier_empreintes.py",
+      "octets": 1909,
+      "sha256": "152965350c7b185f11d5864e98af20c113c9d9daa46f4d6106ab4e5c11988f71"
+    },
+    {
+      "chemin": "06_CORRESPONDANCE_ORIGINAUX/TABLE_CORRESPONDANCE_CAVIARDAGE.json",
+      "octets": 10544,
+      "sha256": "578558368dfd978d9d0c2941bebf4f2630f7a69ae44e08bef961452746252bfd"
+    },
+    {
+      "chemin": "LICENCE_ET_DROITS.md",
+      "octets": 1218,
+      "sha256": "3f6e93a8343fdbbc0a77e34ba24cac10f1e08c087b122eac94310682202e9b52"
+    },
+    {
+      "chemin": "README.md",
+      "octets": 3418,
+      "sha256": "60db1c45b78f8a906abfbd9ea670dacc84940dfc722421fe66a636e3eb1e4c13"
+    },
+    {
+      "chemin": "STATUT_VERIFICATION.md",
+      "octets": 2073,
+      "sha256": "138ded74c7bdbdfcff9920887b56b5e5b3963093f589d50aa28480b8b6c329c7"
+    },
+    {
+      "chemin": "VERIFIER.md",
+      "octets": 1501,
+      "sha256": "83ac6d8baeacab31c43bb2cffcdbda2250493b0829fcc81c1de8ce1ab6897cfd"
+    }
+  ]
+}

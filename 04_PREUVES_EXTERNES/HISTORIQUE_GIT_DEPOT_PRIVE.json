@@ -1,0 +1,21 @@
+{
+  "repo": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ASTRO-QODE-IMAM8MAHDI",
+  "count": 2,
+  "commits": [
+    {
+      "sha": "c29c8c38b5fb21777115fe048972aab4197a2742",
+      "authored_at": "2026-10-25T03:50:33+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "Add conscience logique A140 beside sealed horloge_noyau (RX only)."
+    },
+    {
+      "sha": "3d70d2860c012cb6545fe0f3c39376b5da154e54",
+      "authored_at": "2026-10-25T03:32:26+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "Seal private snapshot of horloge_noyau capsule (A134-A138)."
+    }
+  ],
+  "captured_at_utc": "2026-10-27T13:04:19.779442+00:00"
+}

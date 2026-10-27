@@ -1,0 +1,33 @@
+{
+  "doi": "10.5281/zenodo.23554838",
+  "url": "https://doi.org/10.5281/zenodo.23554838",
+  "depot_zenodo": "https://zenodo.org/records/23554838",
+  "institution_archive": "CERN / OpenAIRE / Datacite",
+  "titre": "IMAM8MAHDI × Al-Mizan × ASTRO-Q°ODE : Architecture Holistique du Kernel Temporel (dt), Machine Virtuelle Scapulaire, Consensus Synchrone 2.9ms et Jeton MZN Anti-Riba",
+  "auteur_principal": {
+    "nom": "EL BAHLOUL",
+    "prenom": "Ahmed",
+    "affiliation": "IMAM8MAHDI Sovereign Lab / Al-Mizan Foundation",
+    "email": "elbahloulahmed505@gmail.com",
+    "pays": "France"
+  },
+  "date_publication": "2026-10-22",
+  "licence": "ASLS-2.0 Anti-Dolosif / Commercial 50/50",
+  "invariants_scelles": {
+    "mizan_bps": 6225,
+    "ligne_ref_bps": 1220,
+    "kernel_dt": 135097021.3359375,
+    "consensus_latence_ms": 2.9,
+    "offre_mzn_totale": 313000000.0,
+    "zakat_civique": 0.025,
+    "anti_usure": true
+  },
+  "cles_blockchain": {
+    "cle_doree_racine": "0xC9550Dd0A57C609494DBc44450Df48D798ebfB0B",
+    "tresorerie_privee": "0xb7f26cD0eE5E74c51B3F4e71e4fA75B3F246837C"
+  },
+  "dois_anterieurs": [
+    "10.5281/zenodo.23479740",
+    "10.5281/zenodo.23288947"
+  ]
+}

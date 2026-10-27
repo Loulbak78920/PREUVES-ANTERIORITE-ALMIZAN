@@ -1,0 +1,20 @@
+{
+  "code_acte": "A099",
+  "titre": "ACTE SCELLÉ A099 — ENREGISTREMENT DU NAME TAG, DU LABEL OFFICIEL ET DU SITE WEB SUR BASESCAN",
+  "date_scellement": "2026-10-22T15:30:00+00:00",
+  "cycle_harmonique": "Cycle 15 Phases — Phase 15 Scellée",
+  "statut": "SCELLÉ_IMMUABLE_ET_AUTHENTIFIÉ",
+  "auteur_souverain": {
+    "nom": "M. Ahmed EL BAHLOUL",
+    "identifiant": "IMAM8MAHDI / Loulbak78920",
+    "cle_doree_reserve": "0xC9550Dd0A57C609494DBc44450Df48D798ebfB0B",
+    "tresorerie_active": "0xb7f26cD0eE5E74c51B3F4e71e4fA75B3F246837C"
+  },
+  "parametres_soumission_nametag": {
+    "label": "Token Contract (ou DeFi / Ecosystem)",
+    "name_tag": "Amal Mizan Synchron (MZN)",
+    "lien_site_web": "https://loulbak78920.github.io/ASTRO-QODE-ALMIZAN/",
+    "depot_github_officiel": "https://github.com/Loulbak78920/ASTRO-QODE-ALMIZAN",
+    "doi_zenodo": "10.5281/zenodo.23554838"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "captured_at_utc": "2026-10-27T13:04:19.779442+00:00",
+  "artefacts": [
+    {
+      "path": "ZENODO_CITABILITE_AHMED_EL_BAHLOUL/ARCHIVE_DEPOT_ZENODO_AHMED_EL_BAHLOUL_V5.zip",
+      "bytes": 168148,
+      "sha256": "535244f2c39e72d7558491f8d0f8dc8837466c22fc410ecee1525a0e2808a33f",
+      "raison_non_publie": "archive ZIP (contient les originaux non caviardes)"
+    },
+    {
+      "path": "COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL/ARCHIVE_COMPLETE_DIGIPOSTE_AHMED_EL_BAHLOUL.zip",
+      "bytes": 73792,
+      "sha256": "368912e74f94331db99a4002ce92ee2e54f254e020d9da48bb7b70944046345c",
+      "raison_non_publie": "archive ZIP (contient les originaux non caviardes)"
+    },
+    {
+      "path": "COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL/05_CODE_SOURCE_SMART_CONTRACT_SCELLE_AmalMizanSynchronMznContract.sol",
+      "bytes": 19542,
+      "sha256": "23a5fa76d611ddcd339bff32a481d278625e4b889bb481f1376d48edcd443cd6",
+      "raison_non_publie": "source Solidity avec commentaire de naissance; source verifie on-chain"
+    },
+    {
+      "path": "COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL/14_AmalMizanSynchronMznContract_VERIF_BASESCAN.sol",
+      "bytes": 19542,
+      "sha256": "23a5fa76d611ddcd339bff32a481d278625e4b889bb481f1376d48edcd443cd6",
+      "raison_non_publie": "copie de verification avec le meme commentaire"
+    },
+    {
+      "path": "Base Solidity Contract Source Code Verification - Bytecode - ABI (Version 2).pdf",
+      "bytes": 393507,
+      "sha256": "606c3dea182b6a8fd16f1b575f5deb886af7f1f43abcef82b09e2f593a1e6058",
+      "raison_non_publie": "PDF de verification"
+    },
+    {
+      "path": "COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL/06_MANIFESTE_EMPREINTES_NUMERIQUES_SHA256_VALEUR_PROBANTE.json",
+      "bytes": 3815,
+      "sha256": "3a00d077ecb232017bd636376dcb387ea67fd958e650cb4af4e9b2d22b491810",
+      "raison_non_publie": "manifeste original (donnees personnelles)"
+    },
+    {
+      "path": "ZENODO_CITABILITE_AHMED_EL_BAHLOUL/MANIFESTE_INTEGRITE_SHA256.json",
+      "bytes": 2747,
+      "sha256": "9781bf2feabc74c67cdfc76b894b9d771353c955d9871efeb7c19c2a6d4e5781",
+      "raison_non_publie": "manifeste original (donnees personnelles)"
+    },
+    {
+      "path": "ZENODO_CITABILITE_AHMED_EL_BAHLOUL/README.md",
+      "bytes": 4945,
+      "sha256": "59549a1018d69c215124344c1a07c474ff145c612fe4623242cde1c26f084799",
+      "raison_non_publie": "index du dossier local, remplace par le present README"
+    },
+    {
+      "path": "COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL/ARCHIVE_COMPLETE_DIGIPOSTE_AHMED_EL_BAHLOUL.zip",
+      "bytes": 73792,
+      "sha256": "368912e74f94331db99a4002ce92ee2e54f254e020d9da48bb7b70944046345c",
+      "raison_non_publie": "archive ZIP"
+    }
+  ]
+}

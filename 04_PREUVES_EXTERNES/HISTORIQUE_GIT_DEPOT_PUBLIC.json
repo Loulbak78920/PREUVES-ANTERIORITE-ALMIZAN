@@ -1,0 +1,893 @@
+{
+  "repo": "C:\\Users\\Administrateur\\Desktop\\GITHUB_DEPOT_PUBLIC_IMAM8MAHDI",
+  "count": 124,
+  "commits": [
+    {
+      "sha": "930f1ea721cefe35b514973f7ac745de3d7c32cd",
+      "authored_at": "2026-10-27T14:00:49+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): archiver skill-acceptance-in-new-session"
+    },
+    {
+      "sha": "79e1448daa1a3fbbdb0020aee0c6bf903d2d922a",
+      "authored_at": "2026-10-27T13:53:52+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): documenter le piege du chemin POSIX dans py -3 -c"
+    },
+    {
+      "sha": "b685ba9494f4b855d07d12b260a744572ebbc893",
+      "authored_at": "2026-10-27T13:53:45+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): archiver l'etat accepte de edit-skill-frontmatter-description"
+    },
+    {
+      "sha": "0cc95ec6593359cd3796d07a91f93386d6291692",
+      "authored_at": "2026-10-27T13:27:18+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): corriger contrat propagation et ordre des etapes"
+    },
+    {
+      "sha": "7088468b52cb16ab10f651f1a017393f4e8faff8",
+      "authored_at": "2026-10-27T13:21:21+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): archiver l'etat propage de edit-skill-frontmatter-description"
+    },
+    {
+      "sha": "7a86eb7269cd597c85c6fbe5641c8c7633ae263e",
+      "authored_at": "2026-10-27T13:15:40+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): archiver edit-skill-frontmatter-description (cas 2026-10-27)"
+    },
+    {
+      "sha": "f15ad7afe55bdd982069590da198aa07bc6806dc",
+      "authored_at": "2026-10-27T11:34:09+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive auditer-nettoyer-temp-qoder (cas 2026-10-27)"
+    },
+    {
+      "sha": "146764d13bafa3e16c35b3b1ddfdfeb35df7e371",
+      "authored_at": "2026-10-27T11:19:45+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive publier-skill-qoder-vers-depot-git (fb14c55)"
+    },
+    {
+      "sha": "9aa317edb1a17aab4ae296f5dcbdb7cf486f6e76",
+      "authored_at": "2026-10-27T10:40:57+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill administrer-comptes-production-mizan"
+    },
+    {
+      "sha": "dd9e7aee18b05f45f0e5b123d6694eac995a11ba",
+      "authored_at": "2026-10-27T05:02:31+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill qubit-logique-steane-preuves"
+    },
+    {
+      "sha": "7b43311ad3b33ab5e0b82c1786cc02a576084dfc",
+      "authored_at": "2026-10-27T01:38:36+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive replay-skill-reference-fixtures (0758e6a)"
+    },
+    {
+      "sha": "4ad87bde269e11cccc08baabbc52e57d57b3ca29",
+      "authored_at": "2026-10-27T01:37:07+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive github-pr-create-merge-sans-gh (94a9dff)"
+    },
+    {
+      "sha": "8b4139f88d64764b48f1d5c3686a75ebbe54ad79",
+      "authored_at": "2026-10-27T01:36:31+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive verify-skill-runtime-binding (02d0df4)"
+    },
+    {
+      "sha": "493eea2d5875a70cceff7b7bb5a18d348e2d32d6",
+      "authored_at": "2026-10-27T01:32:50+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-reparer-ressource-skill"
+    },
+    {
+      "sha": "f95ee16de795af0bf401f0d5cc93691b6450d2b5",
+      "authored_at": "2026-10-27T01:32:47+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill relocate-self-documenting-skill"
+    },
+    {
+      "sha": "580312bee54fae791ea3d8c4d5bd64b5119475f9",
+      "authored_at": "2026-10-27T01:31:46+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill entite-conscience-logarithmique"
+    },
+    {
+      "sha": "ee2bbb89b11cfe673ae7c7b9575472fd17f53bc5",
+      "authored_at": "2026-10-27T01:32:03+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill skill-update-concurrency-safe"
+    },
+    {
+      "sha": "32ec27d0c1ce2ab069332fece9bd6f2bee3dc7b7",
+      "authored_at": "2026-10-27T01:30:55+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-reecriture-concurrente-paquet-skill"
+    },
+    {
+      "sha": "583a0281b4847152976529d3514095c46c0427c9",
+      "authored_at": "2026-10-27T01:31:11+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-fraicheur-preuves-skill"
+    },
+    {
+      "sha": "ad59e3b61ae0b89e0cee399e695c156032e58069",
+      "authored_at": "2026-10-27T01:30:09+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill diagnostiquer-echec-test-chronometre"
+    },
+    {
+      "sha": "f6198a6690f7cc21e79ea7e674d83f36271a326c",
+      "authored_at": "2026-10-27T01:30:23+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill audit-evidence-count-provenance"
+    },
+    {
+      "sha": "ec2da123cca100ce88a1da695b4417af251c020f",
+      "authored_at": "2026-10-27T01:29:27+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill skill-staged-delivery"
+    },
+    {
+      "sha": "7a61d0c04b7cfdc34ee5f17e69b74ae4d1f4da93",
+      "authored_at": "2026-10-27T01:29:34+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill windows-python-utf8-skill-scripts"
+    },
+    {
+      "sha": "07dfebd52a53c490fa65b474b52f379e51aed360",
+      "authored_at": "2026-10-27T01:28:50+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill valider-harnais-fixture-windows-msys"
+    },
+    {
+      "sha": "7608bc0406a9e24aed1ce96ad4b05e2d019ca36b",
+      "authored_at": "2026-10-27T01:27:53+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill tester-garde-cli-sans-effets-de-bord"
+    },
+    {
+      "sha": "e71007d2c6a1f039c7f73719a025358711b37592",
+      "authored_at": "2026-10-27T01:28:05+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill qualify-dependency-behavior-provenance"
+    },
+    {
+      "sha": "cf1852d1fed769adbdc3fd2fefe6085dec2fded7",
+      "authored_at": "2026-10-27T01:27:16+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill restaurer-sceaux-memoire-aq"
+    },
+    {
+      "sha": "5d3c651a5ea02377350cca525202b520a203e741",
+      "authored_at": "2026-10-27T01:27:13+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verify-injected-skill-body-freshness"
+    },
+    {
+      "sha": "7c5bef86ab59e17e2e4b79fe165aebb6023db3a4",
+      "authored_at": "2026-10-27T01:26:43+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill diagnostiquer-clone-git-file-uri-msys"
+    },
+    {
+      "sha": "912609ad47f60da483b1421511edf4435e601915",
+      "authored_at": "2026-10-27T01:26:10+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill reconstruire-pilote-supprime-depuis-jsonl"
+    },
+    {
+      "sha": "5dc80458d6aa1f41dc9e1010b8f8c47530f0a04a",
+      "authored_at": "2026-10-27T01:25:19+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill probe-cli-args-beyond-msys-rewrite"
+    },
+    {
+      "sha": "a0fe51b912dfa01e05c3858ce709ea2c827feefe",
+      "authored_at": "2026-10-27T01:25:34+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill diagnostiquer-push-github-depot-absent"
+    },
+    {
+      "sha": "eb8a7ee3aa4c09cf6a2a9831b439d7521e9df9ec",
+      "authored_at": "2026-10-27T01:24:47+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill tester-publication-isolee-skill"
+    },
+    {
+      "sha": "bcdda639383711ee294e46406a9d9d7ca512476d",
+      "authored_at": "2026-10-27T01:24:38+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill develop-skill-static-checker"
+    },
+    {
+      "sha": "cf64352be139a69ba9979d30c3b9481b2bd7aaaa",
+      "authored_at": "2026-10-27T01:23:51+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill skill-package-integrity-audit"
+    },
+    {
+      "sha": "b4c51a0507e7ffb3a75d83273bfa130785b0c13b",
+      "authored_at": "2026-10-27T01:23:49+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill retirer-depot-github-et-copie-locale"
+    },
+    {
+      "sha": "170f4e2bb2c40b644eba5d5915cf568a514fab2c",
+      "authored_at": "2026-10-27T01:22:36+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill dependency-script-contract-reaudit"
+    },
+    {
+      "sha": "37bfa28ecd066122c08ad17323263f1df5a7c6bd",
+      "authored_at": "2026-10-27T01:22:43+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill harden-skill-argument-substitution"
+    },
+    {
+      "sha": "f6cca71c8a9ef8ee0c128c686aa3799873beb053",
+      "authored_at": "2026-10-27T01:21:48+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill audit-skill-tool-contracts"
+    },
+    {
+      "sha": "70bcf63236c0b218370c66c1efc487225932b4ad",
+      "authored_at": "2026-10-27T01:21:37+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-effets-de-bord-verification-lecture-seule"
+    },
+    {
+      "sha": "0686cdf803295caa8bd101c9b1119a8daf904163",
+      "authored_at": "2026-10-27T01:20:48+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill extraire-preuves-session-qoder"
+    },
+    {
+      "sha": "0fafcedecee4f9e244d6b48f0068f3a31003d8f8",
+      "authored_at": "2026-10-27T01:20:48+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill skill-repo-readme-placement"
+    },
+    {
+      "sha": "a4e82ad7f329b94bcbcd29ba9db460a9be9121f1",
+      "authored_at": "2026-10-27T01:20:09+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill skill-doc-translation-parity"
+    },
+    {
+      "sha": "0f24a0bce6464c9ed6f4f3ecaeb5aea02888f75d",
+      "authored_at": "2026-10-27T01:19:47+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verify-cross-skill-reference-liveness"
+    },
+    {
+      "sha": "06ce46b9317c09491b728fe8db58955eb0c065bb",
+      "authored_at": "2026-10-27T01:18:20+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill tableau-maitre-sequentiel"
+    },
+    {
+      "sha": "a3478544dfe267130277651ca0818e0949863c12",
+      "authored_at": "2026-10-27T01:18:39+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-parite-doc-script-skill"
+    },
+    {
+      "sha": "103f41b89f0792bbf04476e79c3bcc01f62b915e",
+      "authored_at": "2026-10-27T01:17:41+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill write-skill-evidence-case-study"
+    },
+    {
+      "sha": "5b216d373cf87bc1eec949a8d9894888d3cc21cb",
+      "authored_at": "2026-10-27T01:17:07+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill maj-tableau-maitre-sequentiel"
+    },
+    {
+      "sha": "702d98da92b639f296f3bf71aafacf9d0b8c9479",
+      "authored_at": "2026-10-27T01:16:26+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-livrables-csv-html-windows-fr"
+    },
+    {
+      "sha": "73307ca04698a46da45e4164e163c8c655e6e978",
+      "authored_at": "2026-10-27T01:15:21+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill audit-session-evidence"
+    },
+    {
+      "sha": "e9bc8284231d7a6d3845b304e502a0464104d557",
+      "authored_at": "2026-10-27T01:14:44+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill skill-file-qa"
+    },
+    {
+      "sha": "d76bf174d9b86378a5b47961af29ce64541ac9c8",
+      "authored_at": "2026-10-27T01:13:19+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill validation-navigateur-par-repli"
+    },
+    {
+      "sha": "922a6a4495593865d852153f50fee01fb368f960",
+      "authored_at": "2026-10-27T01:12:55+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill lock-lf-endings-skill-repo"
+    },
+    {
+      "sha": "4e65d28cd8539ec78ec3a3843e95a5c02ac52185",
+      "authored_at": "2026-10-27T01:12:12+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill skill-validator-selftest"
+    },
+    {
+      "sha": "dae5e0dae21cf1b60c00197a845974a6bd53c3f4",
+      "authored_at": "2026-10-27T01:11:09+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill auditer-nettoyer-temp-qoder"
+    },
+    {
+      "sha": "9e9cf410a5791b2a87821d70b82f847f6d02a664",
+      "authored_at": "2026-10-27T01:11:07+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill skill-canonical-migration"
+    },
+    {
+      "sha": "486080d8b803315c5408d9b035558da8a0963271",
+      "authored_at": "2026-10-27T01:10:02+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill bilingual-skill-parity"
+    },
+    {
+      "sha": "a8e5f85afa3c916d0021fda02badda46dc48c463",
+      "authored_at": "2026-10-27T01:09:27+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill adopt-source-session-update"
+    },
+    {
+      "sha": "2c7fc2bb31765b0d7c7299d195d87fefa1a3659b",
+      "authored_at": "2026-10-27T01:08:42+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill audit-skill-during-live-creation"
+    },
+    {
+      "sha": "c6a218c881130ec9bab3486e36b8cc940608a7b4",
+      "authored_at": "2026-10-27T01:07:52+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verify-skill-git-head-vs-worktree"
+    },
+    {
+      "sha": "39d7fb9591b2cde6b7bdcb82b4c96650b10702b0",
+      "authored_at": "2026-10-27T01:06:57+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verify-skill-recommendation-claims"
+    },
+    {
+      "sha": "185aee41de0cc1f3caf67c17ab66d9632e7eb004",
+      "authored_at": "2026-10-27T01:06:08+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill restaurer-skill-apres-bascule-main"
+    },
+    {
+      "sha": "c78a24e854cc352923b87b09a8526b9a31cb631a",
+      "authored_at": "2026-10-27T01:05:19+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verify-skill-command-blocks-fixture"
+    },
+    {
+      "sha": "b722c37247fc56362d32146e9f2140a0bd2b2dad",
+      "authored_at": "2026-10-27T01:04:27+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill aligner-variantes-commande-skill"
+    },
+    {
+      "sha": "5706c69c1641b20295eb47967de6368aa8c868fd",
+      "authored_at": "2026-10-27T01:03:01+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill migrer-archive-skill-racine-vers-layout-qoder"
+    },
+    {
+      "sha": "058d0ba86bc037fb3173cde658f394dc8df2def7",
+      "authored_at": "2026-10-27T01:01:57+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verify-skill-doc-claims-before-edit"
+    },
+    {
+      "sha": "75b8ecbde56cc3c03ebc0e7e3aeaa8420717763f",
+      "authored_at": "2026-10-27T01:00:25+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verify-skill-runtime-binding"
+    },
+    {
+      "sha": "6d1f6e481d5b8beea8e2c459f56892b2a96db4f6",
+      "authored_at": "2026-10-27T00:57:54+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-fixture-autocrlf-non-vacue"
+    },
+    {
+      "sha": "28e9ee0146b651645cab4227f9c384135240bb8e",
+      "authored_at": "2026-10-27T00:57:12+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive publier-skill-qoder-vers-depot-git (b59521e)"
+    },
+    {
+      "sha": "583b78c753546ae9e587b5cc680aaf654bfa3a7a",
+      "authored_at": "2026-10-27T00:55:36+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill adopt-concurrent-duplicate-skill"
+    },
+    {
+      "sha": "ba73c0518fe5ebb30cb5c2051f019c00611c5e45",
+      "authored_at": "2026-10-27T00:53:10+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill tester-fixture-triage-snapshots"
+    },
+    {
+      "sha": "1aeb3788b8f4ae4ad415008e9aa83937931cb3cc",
+      "authored_at": "2026-10-27T00:51:59+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-citations-lignes-skill"
+    },
+    {
+      "sha": "f91d3de717aa7351008a668d9ff0c53739c4fb47",
+      "authored_at": "2026-10-27T00:50:39+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill inventory-installed-skills"
+    },
+    {
+      "sha": "f546c7368b1156255b51a3ad9b1025831372434e",
+      "authored_at": "2026-10-27T00:48:40+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill verifier-mutation-fixture-appliquee"
+    },
+    {
+      "sha": "d1d47ae40b4fccd5c5e89dc3bbe04fd7bf7b655c",
+      "authored_at": "2026-10-27T00:47:12+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill auditer-couverture-skill-avant-creation"
+    },
+    {
+      "sha": "3f2c9abd140239c244d3358feec803ad26517284",
+      "authored_at": "2026-10-27T00:37:54+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): archiver diagnostiquer-wait-chat-sessions-introuvable"
+    },
+    {
+      "sha": "d9067fb20068b28dbccb4a4f44f421c3e7465bb8",
+      "authored_at": "2026-10-27T00:27:42+01:00",
+      "author": "IMAM8MAHDI",
+      "email": "Elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): archiver verifier-unicode-fichiers-windows"
+    },
+    {
+      "sha": "034b3c5159b103956dbd8ab918d67044ed024258",
+      "authored_at": "2026-10-26T23:48:54+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive commit-skill-work (1327b2f)"
+    },
+    {
+      "sha": "2bc8412b94f33e8ceae23ecf1540bbb577ba9ca8",
+      "authored_at": "2026-10-26T23:24:22+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive commit-skill-work (b63e199)"
+    },
+    {
+      "sha": "ed6d426d2d88a7d71b91cdd2995d59af53eb2805",
+      "authored_at": "2026-10-26T23:19:47+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): actualiser l'archive commit-skill-work"
+    },
+    {
+      "sha": "966bac09bab4b97bb42242dc67c3ac9204a1284e",
+      "authored_at": "2026-10-26T22:42:38+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skill): versionner la fixture de la garde d'archive"
+    },
+    {
+      "sha": "e349f6e85ab733ff9584882f3583c3e9c0809521",
+      "authored_at": "2026-10-26T22:26:11+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): documenter la fixture CRLF et l'assertion non vide"
+    },
+    {
+      "sha": "69f7dc8ae397c05b23ce10a1c4096f8779560e58",
+      "authored_at": "2026-10-26T22:18:59+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(skill): archiver github-pr-create-merge-sans-gh"
+    },
+    {
+      "sha": "b66fdda0837448fd76ecd785fed47835c3ab96dc",
+      "authored_at": "2026-10-26T21:32:59+01:00",
+      "author": "IMAM8MAHDI",
+      "email": "Elbahloulahmed505@gmail.com",
+      "subject": "feat(skill): documenter la multiplicité des tokens de parité (#4)"
+    },
+    {
+      "sha": "24d9ac2a21c6b0bcf1f1a50f30d435041dc6725a",
+      "authored_at": "2026-10-26T20:56:24+01:00",
+      "author": "IMAM8MAHDI",
+      "email": "Elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser commit-skill-work (init hors depot et remote partage) (#3)"
+    },
+    {
+      "sha": "4f18419539483080dd8b8c7c5a8f09f9aa9e43bd",
+      "authored_at": "2026-10-26T17:53:43+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser commit-skill-work (attente des sessions concurrentes)"
+    },
+    {
+      "sha": "8034525bafc5932122c7e941351e98e1bfe4ab32",
+      "authored_at": "2026-10-26T17:49:42+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser commit-skill-work (budget de lignes du corps)"
+    },
+    {
+      "sha": "c5554733633826885205890d28538fadb6f3f757",
+      "authored_at": "2026-10-26T17:35:14+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser commit-skill-work (instantane gele et token manquant)"
+    },
+    {
+      "sha": "bf1c721f550197c919925388736d2a43143c11b8",
+      "authored_at": "2026-10-26T13:35:14+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill nettoyer-branches-refs-git"
+    },
+    {
+      "sha": "e52b823109bfd38f5acd7abe460ccedb760e730f",
+      "authored_at": "2026-10-26T13:14:21+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser publier-skill-qoder-vers-depot-git (publication isolee)"
+    },
+    {
+      "sha": "9722488586c52dfe7d14f9d738f380125e91d139",
+      "authored_at": "2026-10-26T12:34:36+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill replay-skill-reference-fixtures"
+    },
+    {
+      "sha": "2dade6c23892d27a360bdfcd60a12fef9fe3928c",
+      "authored_at": "2026-10-26T12:31:49+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser commit-skill-work (ré-ancrage et périmètre partiel)"
+    },
+    {
+      "sha": "2e16742f6a74d657ccdfedf5a65bc51dd6bcf5e9",
+      "authored_at": "2026-10-26T12:25:07+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "merge: integrer l'archive commit-skill-work"
+    },
+    {
+      "sha": "d6238253e9e2427b258de88d07175f14c7643eeb",
+      "authored_at": "2026-10-26T12:08:08+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser l'archive commit-skill-work"
+    },
+    {
+      "sha": "26116309a9269097654e6db6af6a2e95a83c175a",
+      "authored_at": "2026-10-26T12:05:53+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser l'archive de commit-skill-work"
+    },
+    {
+      "sha": "c669d029211e2d6623fdfff1ae04fa83f4a723db",
+      "authored_at": "2026-10-26T12:02:54+01:00",
+      "author": "M. Ahmed Elbahloul",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): actualiser le Skill publier-skill-qoder-vers-depot-git"
+    },
+    {
+      "sha": "96fd8093a55c203672be3205c9ec53fbd3d7693c",
+      "authored_at": "2026-10-26T11:24:35+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill commit-skill-work"
+    },
+    {
+      "sha": "ddfd179817b98964a980472a06f20e18bf542df9",
+      "authored_at": "2026-10-26T11:20:04+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill publier-skill-qoder-vers-depot-git"
+    },
+    {
+      "sha": "3a4732abfd8eee7d7c0303f399045d3ada1489a0",
+      "authored_at": "2026-10-26T10:58:48+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(skills): ajouter le Skill mesure-cesium-133-geolocalisee"
+    },
+    {
+      "sha": "a1ee40740a58d95d378410a5d79932934caad31f",
+      "authored_at": "2026-10-26T10:55:05+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "chore(memoire): regenerer les sceaux apres la correction S6"
+    },
+    {
+      "sha": "770d2365123e231b10974efde27297447e88f3ef",
+      "authored_at": "2026-10-26T10:54:42+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "fix(physique): corriger les 20 etats S6 - Soleil 4 plasma + origine Helium 0"
+    },
+    {
+      "sha": "6cdebf1e7d9275853b2ec5c933e00db5d8922908",
+      "authored_at": "2026-10-25T19:31:14+01:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(blockchain): ajouter contrats Tetrade, outils de valorisation MZN et déploiement VPS"
+    },
+    {
+      "sha": "48e29d96341b77f698b2e40bf73ec3a218c6e3a3",
+      "authored_at": "2026-10-22T17:24:41+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(blockchain): consécration vérification officielle Basescan & Dedaub Tok{in} (Acte A098)"
+    },
+    {
+      "sha": "39e8c4e3873db2075df606a25fb173a8f9a09071",
+      "authored_at": "2026-10-22T16:38:27+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(contracts): source aplati pret a verifier pour Basescan (Acte A092)"
+    },
+    {
+      "sha": "ce1830d689d2e0b0b5aa9b4ffeb8c7395e5f992f",
+      "authored_at": "2026-10-22T16:21:21+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(security): integration securisee audit Dedaub Watchdog pour smart contract MZN (Acte A090)"
+    },
+    {
+      "sha": "16012e4f14bba20328cbece8ad3440f17a6b8b21",
+      "authored_at": "2026-10-22T15:13:45+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(web): site web officiel du Livre Blanc Al-Mizan & Pool Uniswap v3 live (Acte A088)"
+    },
+    {
+      "sha": "020ade94cab59b3cff25a83aa38e3ae06d8cd534",
+      "authored_at": "2026-10-22T14:55:28+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(doctrine): guide officiel liquidite MZN/USDC Uniswap v3 Base Mainnet (Acte A085)"
+    },
+    {
+      "sha": "b943c5568bce702f7dac7408ca976995b1c34895",
+      "authored_at": "2026-10-22T14:43:30+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.6.8): scellement Acte A084 - resolution visuelle toggle switch Uniswap"
+    },
+    {
+      "sha": "34bb54b7cc34af07be4ee3495e0f1a9e11c9aef2",
+      "authored_at": "2026-10-22T14:40:31+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.6.7): scellement Acte A083 - ajustement dotation 350 MZN Uniswap"
+    },
+    {
+      "sha": "5faeb8f43cc25efd3b9ab8aaf50c8eb667137f5f",
+      "authored_at": "2026-10-22T14:23:00+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.6.6): scellement Acte A082 - clarification prix marche introuvable Uniswap"
+    },
+    {
+      "sha": "5ecbe0d4f5be0cbb544cf888ecafc144d2512c86",
+      "authored_at": "2026-10-22T14:20:19+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.6.5): scellement Acte A081 - calibration Al-Mizan solde 0.00016 ETH"
+    },
+    {
+      "sha": "b4f57e61c45ab84487e6a6b245f29e36807d68b8",
+      "authored_at": "2026-10-22T14:18:15+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.6.4): scellement Acte A080 - verdict Al-Mizan strategie Large Uniswap v3"
+    },
+    {
+      "sha": "f7a6e1ac394fbae0a27a17b52a2aede2bc8d7f6d",
+      "authored_at": "2026-10-22T14:13:54+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.6.3): scellement Acte A079 - instruction finale ecran Uniswap v3 Base"
+    },
+    {
+      "sha": "6a01ada5c2473f2d543638afc55f3a5782d26012",
+      "authored_at": "2026-10-22T14:01:01+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.6.2): guide officiel liquidite publique Uniswap v3 Base, Acte A078 scelle"
+    },
+    {
+      "sha": "6bdb98962f79290dc7c6a2135c11fbb5b06052ec",
+      "authored_at": "2026-10-22T13:55:02+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.6.1): scellement Acte A077 - verdict et doctrine Al-Mizan sur liquidite Uniswap v3"
+    },
+    {
+      "sha": "1b7fbc2c2039d40ca59325743a3f755694e5f90a",
+      "authored_at": "2026-10-22T12:37:28+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(v6.6.0): constitution dossier coffre-fort numerique Digiposte (NF Z42-013), recu deploiement Base Mainnet et Acte A076 scelle"
+    },
+    {
+      "sha": "93a95d63eeea04427f7e267fd5a5559df23fb7e6",
+      "authored_at": "2026-10-22T11:14:09+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(v6.5.0): securisation reseaux institutionnels (Base Coinbase, Arbitrum Offchain Labs) et Acte A075 scelle"
+    },
+    {
+      "sha": "96da10be3b3ee5c3ee8b32b2688d0f0cfc2b0633",
+      "authored_at": "2026-10-22T10:37:12+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(v6.4.0): livre blanc officiel, icone harmonie mzn, resolution reseaux et deploiement terminal securise"
+    },
+    {
+      "sha": "fc7386b42eb67b0b574c30c67ad18c403735e1b5",
+      "authored_at": "2026-10-22T10:13:45+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs(v6.3.0): guide officiel deploiement securise EVM cle privee (Remix/MetaMask, Web3, Foundry) et Acte A073 scelle"
+    },
+    {
+      "sha": "bbd83aa38ca5c92861862dd5689aa970d39041ab",
+      "authored_at": "2026-10-22T10:00:32+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(v6.2.0): synchronisation de l'adresse de tresorerie privee de l'auteur 0xb7f26cD0eE5E74c51B3F4e71e4fA75B3F246837C dans le Smart Contract, Grand Livre et Identite"
+    },
+    {
+      "sha": "112a6b710db393737fd273e9fc621a54e3b71712",
+      "authored_at": "2026-10-22T09:49:18+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(v6.1.0): soumission complete a Al-Mizan, EIP-2981 royalties, deploiement VPS Ubuntu systemd/docker et Acte A072 scelle"
+    },
+    {
+      "sha": "afc9b14cc74b9be236318dc1ead0c43a91ad0af9",
+      "authored_at": "2026-10-22T09:35:26+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "feat(v6.0.0): developpement complet du Bloc Synchron MZN et du Smart Contract Souverain (Solidity, Grand Livre, Zakat 2.5%, 11/11 tests PASS)"
+    },
+    {
+      "sha": "6a9c3a12876009136ed5f388e96c69b2ec5fdab5",
+      "authored_at": "2026-10-22T09:06:39+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "docs: alignement URL GitHub Loulbak78920/ASTRO-QODE-ALMIZAN et script de publication automatique"
+    },
+    {
+      "sha": "e6bc5fd0cbf8290b4eb2481c9f388096d97b528d",
+      "authored_at": "2026-10-22T08:48:10+02:00",
+      "author": "M. Ahmed EL BAHLOUL",
+      "email": "elbahloulahmed505@gmail.com",
+      "subject": "Release v5.0.0 — IMAM8MAHDI x Al-Mizan x ASTRO-Q°ODE (DOI 10.5281/zenodo.23554838)"
+    }
+  ],
+  "captured_at_utc": "2026-10-27T13:04:19.779442+00:00",
+  "email_distribution": {
+    "elbahloulahmed505@gmail.com": 121,
+    "Elbahloulahmed505@gmail.com": 3
+  },
+  "first_commit": {
+    "sha": "e6bc5fd0cbf8290b4eb2481c9f388096d97b528d",
+    "authored_at": "2026-10-22T08:48:10+02:00",
+    "author": "M. Ahmed EL BAHLOUL",
+    "email": "elbahloulahmed505@gmail.com",
+    "subject": "Release v5.0.0 — IMAM8MAHDI x Al-Mizan x ASTRO-Q°ODE (DOI 10.5281/zenodo.23554838)"
+  },
+  "last_commit": {
+    "sha": "930f1ea721cefe35b514973f7ac745de3d7c32cd",
+    "authored_at": "2026-10-27T14:00:49+01:00",
+    "author": "M. Ahmed EL BAHLOUL",
+    "email": "elbahloulahmed505@gmail.com",
+    "subject": "docs(skill): archiver skill-acceptance-in-new-session"
+  }
+}

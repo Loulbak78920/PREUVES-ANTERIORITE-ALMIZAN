@@ -1,0 +1,36 @@
+{
+  "code_acte": "A098",
+  "titre": "ACTE SCELLÉ A098 — CONSÉCRATION ABSOLUE : VÉRIFICATION OFFICIELLE DU CODE SOURCE SUR BASESCAN ET CERTIFICATION DEDAUB TOK{IN}",
+  "date_scellement": "2026-10-22T15:25:00+00:00",
+  "cycle_harmonique": "Cycle 15 Phases — Phase 15 Scellée",
+  "statut": "SCELLÉ_IMMUABLE_ET_TRIOMPHAL",
+  "auteur_souverain": {
+    "nom": "M. Ahmed EL BAHLOUL",
+    "identifiant": "IMAM8MAHDI / Loulbak78920",
+    "cle_doree_reserve": "0xC9550Dd0A57C609494DBc44450Df48D798ebfB0B",
+    "tresorerie_active": "0xb7f26cD0eE5E74c51B3F4e71e4fA75B3F246837C"
+  },
+  "contrat_consacre": {
+    "nom": "AmalMizanSynchronMznContract",
+    "adresse": "0x520cbd0e1e72178f9e819AFf1e815606923A71db",
+    "reseau": "Base Mainnet (Coinbase L2, Chain ID 8453)",
+    "compiler_solc": "v0.8.37+commit.f401782d",
+    "optimisation": "Enabled (Runs: 200)",
+    "statut_basescan": "VERIFIED (Exact Match, Coche Verte Officielle)",
+    "statut_dedaub": "Source Available : Verified"
+  },
+  "portee_historique": {
+    "transparence_totale": "Le code source Solidity (462 lignes) est désormais public, auditable et consultable en clair par le monde entier sur Basescan.",
+    "interactivite_web3": "Les onglets 'Read Contract' et 'Write Contract' permettent désormais à quiconque d'interroger la blockchain et d'interagir directement avec le contrat via MetaMask.",
+    "securite_certifiee": "11/11 contrôles réussis au vert sur Dedaub Tok{in}, confirmant l'absence totale de failles critiques, de backdoors, de honeypots ou de vulnérabilités."
+  },
+  "liens_officiels_mondiaux": {
+    "basescan_contrat": "https://basescan.org/address/0x520cbd0e1e72178f9e819AFf1e815606923A71db#code",
+    "basescan_read": "https://basescan.org/address/0x520cbd0e1e72178f9e819AFf1e815606923A71db#readContract",
+    "basescan_write": "https://basescan.org/address/0x520cbd0e1e72178f9e819AFf1e815606923A71db#writeContract",
+    "dedaub_tokin": "https://tokin.dedaub.com/scan/base/0x520cbd0e1e72178f9e819aff1e815606923a71db",
+    "uniswap_v3_pool": "https://basescan.org/address/0xfb76b57c2e179a44ba7919d3960fc18a4c9db172",
+    "github_officiel": "https://github.com/Loulbak78920/ASTRO-QODE-ALMIZAN",
+    "zenodo_doi": "https://doi.org/10.5281/zenodo.23554838"
+  }
+}

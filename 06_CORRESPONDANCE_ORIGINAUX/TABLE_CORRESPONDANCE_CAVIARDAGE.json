@@ -1,0 +1,156 @@
+{
+  "captured_at_utc": "2026-10-27T13:04:19.779442+00:00",
+  "note": "Chaque entree relie un fichier source local (non publie) a sa copie publiee. Les empreintes des sources ne sont pas verifiables par un tiers: elles servent a l'auteur a rapprocher les copies publiees de ses originaux.",
+  "regles_caviardage": [
+    "Date de naissance supprimee",
+    "Lieu de naissance remplace par 'France'",
+    "Coordonnees GPS et communes de residence supprimees",
+    "Nom, email, nationalite, organisation et ancres cryptographiques conserves"
+  ],
+  "fichiers": [
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\IDENTITE_COMPLETE_AUTEUR_SOUVERAIN.json",
+      "published": "01_IDENTITE_ET_ATTRIBUTION/IDENTITE_AUTEUR_CAVIARDEE.json",
+      "source_sha256": "adeb7ca79705edb3553e92d04efd29ef0353f07585dfbfa19a55b0b2a8a5d692",
+      "published_sha256": "9eebd237bba8d2f6051da6204938bbacf4315fa616d3abce09f6dc64f00340df"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\IDENTITE_COMPLETE_AUTEUR_SOUVERAIN.md",
+      "published": "01_IDENTITE_ET_ATTRIBUTION/IDENTITE_AUTEUR_CAVIARDEE.md",
+      "source_sha256": "1ce92c29c9c943736b982800487450efc32fe80bb03e4715a3089be38f4f797a",
+      "published_sha256": "0bc75ddcca29614d50d38125dcdda7c78fd5196bc00989983c2ae5b1bdf689fc"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\01_ACTE_AUTHENTIQUE_PROBATOIRE_IDENTITE_ET_PROPRIETE_INTELLECTUELLE.md",
+      "published": "01_IDENTITE_ET_ATTRIBUTION/ACTE_A01_ANTERIORITE_CAVIARDE.md",
+      "source_sha256": "f0b47d3f74c97c78e00fdb8b10aea47fe1efa50dfdf62f3f75a774f131397251",
+      "published_sha256": "09da92dc9865dcc82228edb30fddc233c8a4f16a3b91ffbaf561a7e131f73586"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\ACTE_A076_MEMOIRE_ALMIZAN_COFFRE_FORT_DIGIPOSTE.json",
+      "published": "01_IDENTITE_ET_ATTRIBUTION/RECU_COFFRE_DIGIPOSTE_A076_CAVIARDE.json",
+      "source_sha256": "1bf08b09b48f30f24569f75faa4c03959d5184098a1169a1cc6c4928ff7517d6",
+      "published_sha256": "b896c4e5e4a25bc7bf5afd25687f6e4773c573e1ad42cdc5fe07938a71254b9d"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\LICENCES_ET_DROITS\\LICENSE_COMPLETE_ET_ATTRIBUTION.md",
+      "published": "02_LICENCES/LICENCE_COMPLETE_ET_ATTRIBUTION_CAVIARDEE.md",
+      "source_sha256": "c95b4cd466df6b4da5c21116ec62537d08b9cba02cc1c756c164674de1a19fe7",
+      "published_sha256": "18652914aa605d949384db7f0eb7f7accb9f67107e1e89f7cc511faac0a03a45"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\LICENCES_ET_DROITS\\CONTRAT_COMMERCIAL_50_50_ET_LICENCE_CLOUD_ANTI_DOLOSIVE.md",
+      "published": "02_LICENCES/CONTRAT_COMMERCIAL_50_50_CAVIARDE.md",
+      "source_sha256": "1f37567d92de1b75b55aa36785d02e254e6bfa7cfc6cf0077e1950c5e9c05fa6",
+      "published_sha256": "d335341911ea356547fda6f4364f3eca261a070f63275e839d5b6f3e646e9cb4"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\03_CONTRAT_COMMERCIAL_50_50_ET_LICENCE_CLOUD_ANTI_DOLOSIVE.md",
+      "published": "02_LICENCES/COFFRE_CONTRAT_50_50_CAVIARDE.md",
+      "source_sha256": "24e33096f8bf8e98248718fbcfa36f3cc660d772d6e99799cc00dfb6fcecb722",
+      "published_sha256": "9a4c00e17ba7d3e3acc843a5acb6f38dd6ecbda6314dd6ed606ec564e1f6c49d"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\LICENSE.md",
+      "published": "02_LICENCES/LICENSE_DEPOT.md",
+      "source_sha256": "ac8496f8ed2d7d6ed019b099c5571d6b94f41d134ee44da40aadc9ca28b0b102",
+      "published_sha256": "82c8a2e18ec9d627632fc75f1e3f2afca9b05495a224ec890cfefd96a0d7c297"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\NOTICE.txt",
+      "published": "02_LICENCES/NOTICE.txt",
+      "source_sha256": "6757acf974cdeb6283132f5271d0500980385b3b9db00e4c0edb54939ddb0f05",
+      "published_sha256": "d6ddaf4e84adb2bcabb61da5a8ab172f723fc0927803024e21fe6d520ef55fd4"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\SYNTHESE_SCIENTIFIQUE_COMPLETE_ZENODO.md",
+      "published": "03_OEUVRE/SYNTHESE_SCIENTIFIQUE_CAVIARDEE.md",
+      "source_sha256": "0eb753b0a52d5dde862a5e683404a52b1161b459e1dd703a8ecd86551221707b",
+      "published_sha256": "6288ed3c2927b21cd376a04d4054aff1f1c1f6814b720020fa316d76d77933d5"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\02_LIVRE_BLANC_OFFICIEL_ALMIZAN_ASTRO_QODE.md",
+      "published": "03_OEUVRE/LIVRE_BLANC_OFFICIEL_CAVIARDE.md",
+      "source_sha256": "2d42399e7df1c70197866ab6063e9da4362aa72e3d5c076f5957e4668c48aae1",
+      "published_sha256": "ded57db764a52e26a25920ac40108afbf54187a8493c420d9d925fda92590df0"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\.zenodo.json",
+      "published": "03_OEUVRE/METADONNEES/.zenodo.json",
+      "source_sha256": "b5c21fc787db3bae4045e7f8eb0aeb9eea7e9cf429111086c962139c2c7b143b",
+      "published_sha256": "c966bdad19eba892aef4449f925a3df2657dc8dc473a5e02c76ffabb9d3d8438"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\CITATION.cff",
+      "published": "03_OEUVRE/METADONNEES/CITATION.cff",
+      "source_sha256": "73e6e3353e2dc8fac423b18f2c20022c17cf3eae8e15632ce4e748da31122689",
+      "published_sha256": "086d1e729411fe0d37d0d6783315fbe5e466cbbc4693cf993438c2135cd75a3d"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\codemeta.json",
+      "published": "03_OEUVRE/METADONNEES/codemeta.json",
+      "source_sha256": "ce9b2b4206181aa5ac33adc90aae8a8f1ddfa1ad64221a2b1ca3589f4350b24c",
+      "published_sha256": "f61d7021456442bf3238843bce961188f747cc493d755d69dc5f071e9f8b10e5"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\datacite.json",
+      "published": "03_OEUVRE/METADONNEES/datacite.json",
+      "source_sha256": "1e9a979b016ab21c07ca91956ec66960ead06104b080914d3448effe15728ee3",
+      "published_sha256": "b7ea248d125df2de6daf86e8dcb0a729113c972098312667f8af5e00693f3669"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\CITATIONS_ACADEMIQUES\\references.bib",
+      "published": "03_OEUVRE/CITATIONS_ACADEMIQUES/references.bib",
+      "source_sha256": "7c27b4bf06b2cff39f460342d1b23e2a8d430bdbc28d66afe6cebb080c58b9b7",
+      "published_sha256": "1efc5976b7923bf5c7c109971ee52d4ccf79407a3aca1b86b3bf963981302056"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\CITATIONS_ACADEMIQUES\\references.ris",
+      "published": "03_OEUVRE/CITATIONS_ACADEMIQUES/references.ris",
+      "source_sha256": "df615f6660174764293bbfc49ca61496428d06b8b8b009b5bfc5514e69cefbe2",
+      "published_sha256": "4973303eb490844ee3fceeb405675c801dec401b3c60fe2f6c515d182af03dd4"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\ZENODO_CITABILITE_AHMED_EL_BAHLOUL\\CITATIONS_ACADEMIQUES\\STYLES_DE_CITATION.md",
+      "published": "03_OEUVRE/CITATIONS_ACADEMIQUES/STYLES_DE_CITATION_CAVIARDE.md",
+      "source_sha256": "3ae70140502989f283019067fd1dae36170146f6292493d6df2286a792633bf8",
+      "published_sha256": "1787ac29b8b561349d8b597ac6216dc2f0ad83a54f9dd462a7dff881684d663f"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\05_ARTEFACT_BYTECODE_ET_ABI_AmalMizanSynchronMznContract.json",
+      "published": "03_OEUVRE/SMART_CONTRACT/ARTEFACT_BYTECODE_ET_ABI.json",
+      "source_sha256": "ebcd93f608067b22b4fbc7d7cf999b6aa5dea4eac61e648ab3eff487b9894fa6",
+      "published_sha256": "ebcd93f608067b22b4fbc7d7cf999b6aa5dea4eac61e648ab3eff487b9894fa6"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\04_CERTIFICAT_CITATION_ZENODO_DOI_10_5281_zenodo_23554838.json",
+      "published": "03_OEUVRE/SMART_CONTRACT/CERTIFICAT_CITATION.json",
+      "source_sha256": "c38f6f91cfc68551e40a26941f39d6de8e3ab88ca451b18e22f38cd014080133",
+      "published_sha256": "7ed51718eca424ad83703424974a6c7f24f118d19a1410c35fd7c3860092385f"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\04_CERTIFICAT_CITATION_ZENODO_DOI_10_5281_zenodo_23554838.md",
+      "published": "03_OEUVRE/SMART_CONTRACT/CERTIFICAT_CITATION.md",
+      "source_sha256": "80446cab90ef1a0cd8b4043708d606aefc6579bbe798eade6abae179182a9891",
+      "published_sha256": "78f2ad539551bfb08fce3d527d12c4ef46400ee2e4895f241b240e94e350d5ac"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\15_ACTE_A098_VERIFICATION_OFFICIELLE_BASESCAN_ET_DEDAUB.json",
+      "published": "03_OEUVRE/SMART_CONTRACT/ACTE_A098_VERIFICATION_BASESCAN.json",
+      "source_sha256": "8578887b2701c321a6f3da56a6b22f05a6c14712272743724748818f35d7866e",
+      "published_sha256": "a6050825ca6a57e507182206677c60237b9a065cc7018818198af5a04bd3c629"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\16_ACTE_A099_ENREGISTREMENT_NAMETAG_BASESCAN.json",
+      "published": "03_OEUVRE/SMART_CONTRACT/ACTE_A099_NAMETAG_BASESCAN.json",
+      "source_sha256": "dc9e289935b8b36116fe7b06d1db4e31c37fb1d5dc98a3ddee068c616a976883",
+      "published_sha256": "796b67dbd728a1cacbf25b91119ef242aefcae9887395ebd45e5c63c716cb47c"
+    },
+    {
+      "source": "C:\\Users\\Administrateur\\Desktop\\IMAM8MAHDI\\COFFRE_FORT_NUMERIQUE_DIGIPOSTE_AHMED_EL_BAHLOUL\\08_RECU_OFFICIEL_DEPLOIEMENT_BASE_MAINNET.json",
+      "published": "04_PREUVES_EXTERNES/RECU_DEPLOIEMENT_BASE_MAINNET.json",
+      "source_sha256": "aa27c1fe0ade8939ce9c7d73be1ddce3e5430e7fff609cd8fdf7dd20dd3830bc",
+      "published_sha256": "593481baf509116d3de261f25b715f24111dac859d08aa0d28cbf35f43c36214"
+    }
+  ]
+}

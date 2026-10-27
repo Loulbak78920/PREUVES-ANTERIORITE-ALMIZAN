@@ -1,0 +1,33 @@
+{
+  "captured_at_utc": "2026-10-27T13:04:19.779442+00:00",
+  "public_repo": {
+    "url": "https://github.com/Loulbak78920/ASTRO-QODE-ALMIZAN",
+    "ls_remote_rc": 0,
+    "heads": [
+      "930f1ea721cefe35b514973f7ac745de3d7c32cd\trefs/heads/main",
+      "fe57c7cffa849de97a542b3f2afce7654d39a201\trefs/heads/master",
+      "da7ba1e330672610193b73022f907e2ed69f50bf\trefs/heads/merge/skill-aligner-variantes-commande-skill",
+      "972bfa6f5a78f3589393fafedf30f723540c75b7\trefs/heads/merge/skill-diagnostiquer-wait-chat-sessions-introuvable",
+      "00e7b3b4790340d7c75817236115f82f90c359a1\trefs/heads/merge/skill-github-pr-create-merge-sans-gh-20261026-231214",
+      "9c6ba31ca466a6051bcd8c3bd93524fe909778d2\trefs/heads/merge/skill-qubit-logique-steane-preuves-20261027-0514",
+      "fd184dd94fa6ac2950ad453bcd12bc1e7f2f82f3\trefs/heads/merge/skill-verifier-unicode-fichiers-windows",
+      "55e29897c39ae739e6b1ada826077d83c987d011\trefs/heads/skill/aligner-variantes-commande-skill",
+      "1327b2fbb48b8c2870982f13354620a10b931a19\trefs/heads/skill/commit-skill-work",
+      "faf1f437d8cc9f14cf4d185b022c8625fc163365\trefs/heads/skill/diagnostiquer-wait-chat-sessions-introuvable",
+      "94a9dffcb208d6ccfaea61a81453a72d7b6d2e51\trefs/heads/skill/github-pr-create-merge-sans-gh",
+      "a2ca9a78de22c655de7e8b264120c65a4dc2675b\trefs/heads/skill/verifier-unicode-fichiers-windows"
+    ],
+    "stderr": ""
+  },
+  "private_repo": {
+    "url": "https://github.com/Loulbak78920/ASTRO-QODE-IMAM8MAHDI",
+    "ls_remote_rc": 0,
+    "heads": [
+      "c29c8c38b5fb21777115fe048972aab4197a2742\trefs/heads/main"
+    ],
+    "stderr": "",
+    "note": "Depot prive: l'acces anonyme peut echouer; 28 fichiers, 2 commits."
+  },
+  "local_public_head": "930f1ea721cefe35b514973f7ac745de3d7c32cd",
+  "local_private_head": "c29c8c38b5fb21777115fe048972aab4197a2742"
+}
